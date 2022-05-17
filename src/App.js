@@ -166,7 +166,7 @@ function App() {
             <span>info@websitename.com</span>
           </section>
         </div>
-        <span class="border-shape"></span>
+
         <div class="bottom_content">
           <section>
             <a href="#">

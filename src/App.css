@@ -436,12 +436,12 @@ a {
 /*FOOTER*/
 footer {
   width: 100%;
-  background-color: #121619;
+  background-color: #293035;
   color: #fff;
 }
 
 .top_header {
-  padding: 2rem;
+  padding: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -497,7 +497,7 @@ footer .bottom_content section {
 
 .copyright {
   padding: 0.8em 0;
-  background-color: #1e1e1e;
+  background-color: #2f2b2b;
   text-align: center;
   color: rgba(255, 255, 255, 0.7);
   font-size: 12px;
